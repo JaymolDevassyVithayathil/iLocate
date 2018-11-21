@@ -1,0 +1,18 @@
+SMAP
+calllog_jsp.java
+JSP
+*S JSP
+*F
++ 0 calllog.jsp
+User/calllog.jsp
+*L
+5,4:45
+8:48,9
+9,22:57
+31,17:80
+47:97
+48,6:98,3
+54,4:116
+58,3:121
+60,8:124
+*E

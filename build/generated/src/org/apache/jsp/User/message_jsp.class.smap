@@ -1,0 +1,18 @@
+SMAP
+message_jsp.java
+JSP
+*S JSP
+*F
++ 0 message.jsp
+User/message.jsp
+*L
+5,5:45
+9:49,9
+10,23:58
+33,17:82
+49:99
+50,6:100,3
+56,4:118
+60,3:123
+62,7:126
+*E

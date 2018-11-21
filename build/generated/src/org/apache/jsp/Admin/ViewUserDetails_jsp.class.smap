@@ -1,0 +1,20 @@
+SMAP
+ViewUserDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewUserDetails.jsp
+Admin/ViewUserDetails.jsp
+*L
+5,4:45
+8:48,9
+9,9:57
+19,33:68
+51,19:101
+70,21:121
+90:142
+91,14:143,3
+105,2:185
+107,3:188
+109,8:191
+*E
